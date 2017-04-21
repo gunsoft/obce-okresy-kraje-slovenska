@@ -35,6 +35,12 @@ files.forEach((file) => {
         })
         .on("data", function(_data) {
             console.log(_data);
+            _data = Object.keys(_data).map((key) => {
+                if (_data[key].match(/^[0-9]*$/)) {
+                    return Number(_data[key]);
+                }
+                return _data[key]
+            });
             data.push(_data);
         })
         .on("end", function() {

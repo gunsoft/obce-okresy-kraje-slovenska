@@ -1,555 +1,555 @@
 [
-	{
-		"id": "1",
-		"name": "Bánovce nad Bebravou",
-		"veh_reg_num": "BN",
-		"code": "301",
-		"region_id": "6"
-	},
-	{
-		"id": "2",
-		"name": "Banská Bystrica",
-		"veh_reg_num": "BB",
-		"code": "601",
-		"region_id": "1"
-	},
-	{
-		"id": "3",
-		"name": "Banská Štiavnica",
-		"veh_reg_num": "BS",
-		"code": "602",
-		"region_id": "1"
-	},
-	{
-		"id": "4",
-		"name": "Bardejov",
-		"veh_reg_num": "BJ",
-		"code": "701",
-		"region_id": "5"
-	},
-	{
-		"id": "5",
-		"name": "Bratislava I",
-		"veh_reg_num": "BA, BL",
-		"code": "101",
-		"region_id": "2"
-	},
-	{
-		"id": "6",
-		"name": "Bratislava II",
-		"veh_reg_num": "BA, BL",
-		"code": "102",
-		"region_id": "2"
-	},
-	{
-		"id": "7",
-		"name": "Bratislava III",
-		"veh_reg_num": "BA, BL",
-		"code": "103",
-		"region_id": "2"
-	},
-	{
-		"id": "8",
-		"name": "Bratislava IV",
-		"veh_reg_num": "BA, BL",
-		"code": "104",
-		"region_id": "2"
-	},
-	{
-		"id": "9",
-		"name": "Bratislava V",
-		"veh_reg_num": "BA, BL",
-		"code": "105",
-		"region_id": "2"
-	},
-	{
-		"id": "10",
-		"name": "Brezno",
-		"veh_reg_num": "BR",
-		"code": "603",
-		"region_id": "1"
-	},
-	{
-		"id": "11",
-		"name": "Bytča",
-		"veh_reg_num": "BY",
-		"code": "501",
-		"region_id": "8"
-	},
-	{
-		"id": "12",
-		"name": "Čadca",
-		"veh_reg_num": "CA",
-		"code": "502",
-		"region_id": "8"
-	},
-	{
-		"id": "13",
-		"name": "Detva",
-		"veh_reg_num": "DT",
-		"code": "604",
-		"region_id": "1"
-	},
-	{
-		"id": "14",
-		"name": "Dolný Kubín",
-		"veh_reg_num": "DK",
-		"code": "503",
-		"region_id": "8"
-	},
-	{
-		"id": "15",
-		"name": "Dunajská Streda",
-		"veh_reg_num": "DS",
-		"code": "201",
-		"region_id": "7"
-	},
-	{
-		"id": "16",
-		"name": "Galanta",
-		"veh_reg_num": "GA",
-		"code": "202",
-		"region_id": "7"
-	},
-	{
-		"id": "17",
-		"name": "Gelnica",
-		"veh_reg_num": "GL",
-		"code": "801",
-		"region_id": "3"
-	},
-	{
-		"id": "18",
-		"name": "Hlohovec",
-		"veh_reg_num": "HC",
-		"code": "203",
-		"region_id": "7"
-	},
-	{
-		"id": "19",
-		"name": "Humenné",
-		"veh_reg_num": "HE",
-		"code": "702",
-		"region_id": "5"
-	},
-	{
-		"id": "20",
-		"name": "Ilava",
-		"veh_reg_num": "IL",
-		"code": "302",
-		"region_id": "6"
-	},
-	{
-		"id": "21",
-		"name": "Kežmarok",
-		"veh_reg_num": "KK",
-		"code": "703",
-		"region_id": "5"
-	},
-	{
-		"id": "22",
-		"name": "Komárno",
-		"veh_reg_num": "KN",
-		"code": "401",
-		"region_id": "4"
-	},
-	{
-		"id": "23",
-		"name": "Košice I",
-		"veh_reg_num": "KE",
-		"code": "802",
-		"region_id": "3"
-	},
-	{
-		"id": "24",
-		"name": "Košice II",
-		"veh_reg_num": "KE",
-		"code": "803",
-		"region_id": "3"
-	},
-	{
-		"id": "25",
-		"name": "Košice III",
-		"veh_reg_num": "KE",
-		"code": "804",
-		"region_id": "3"
-	},
-	{
-		"id": "26",
-		"name": "Košice IV",
-		"veh_reg_num": "KE",
-		"code": "805",
-		"region_id": "3"
-	},
-	{
-		"id": "27",
-		"name": "Košice-okolie",
-		"veh_reg_num": "KS",
-		"code": "806",
-		"region_id": "3"
-	},
-	{
-		"id": "28",
-		"name": "Krupina",
-		"veh_reg_num": "KA",
-		"code": "605",
-		"region_id": "1"
-	},
-	{
-		"id": "29",
-		"name": "Kysucké Nové Mesto",
-		"veh_reg_num": "KM",
-		"code": "504",
-		"region_id": "8"
-	},
-	{
-		"id": "30",
-		"name": "Levice",
-		"veh_reg_num": "LV",
-		"code": "402",
-		"region_id": "4"
-	},
-	{
-		"id": "31",
-		"name": "Levoča",
-		"veh_reg_num": "LE",
-		"code": "704",
-		"region_id": "5"
-	},
-	{
-		"id": "32",
-		"name": "Liptovský Mikuláš",
-		"veh_reg_num": "LM",
-		"code": "505",
-		"region_id": "8"
-	},
-	{
-		"id": "33",
-		"name": "Lučenec",
-		"veh_reg_num": "LC",
-		"code": "606",
-		"region_id": "1"
-	},
-	{
-		"id": "34",
-		"name": "Malacky",
-		"veh_reg_num": "MA",
-		"code": "106",
-		"region_id": "2"
-	},
-	{
-		"id": "35",
-		"name": "Martin",
-		"veh_reg_num": "MT",
-		"code": "506",
-		"region_id": "8"
-	},
-	{
-		"id": "36",
-		"name": "Medzilaborce",
-		"veh_reg_num": "ML",
-		"code": "705",
-		"region_id": "5"
-	},
-	{
-		"id": "37",
-		"name": "Michalovce",
-		"veh_reg_num": "MI",
-		"code": "807",
-		"region_id": "3"
-	},
-	{
-		"id": "38",
-		"name": "Myjava",
-		"veh_reg_num": "MY",
-		"code": "303",
-		"region_id": "6"
-	},
-	{
-		"id": "39",
-		"name": "Námestovo",
-		"veh_reg_num": "NO",
-		"code": "507",
-		"region_id": "8"
-	},
-	{
-		"id": "40",
-		"name": "Nitra",
-		"veh_reg_num": "NR",
-		"code": "403",
-		"region_id": "4"
-	},
-	{
-		"id": "41",
-		"name": "Nové Mesto nad Váhom",
-		"veh_reg_num": "NM",
-		"code": "304",
-		"region_id": "6"
-	},
-	{
-		"id": "42",
-		"name": "Nové Zámky",
-		"veh_reg_num": "NZ",
-		"code": "404",
-		"region_id": "4"
-	},
-	{
-		"id": "43",
-		"name": "Partizánske",
-		"veh_reg_num": "PE",
-		"code": "305",
-		"region_id": "6"
-	},
-	{
-		"id": "44",
-		"name": "Pezinok",
-		"veh_reg_num": "PK",
-		"code": "107",
-		"region_id": "2"
-	},
-	{
-		"id": "45",
-		"name": "Piešťany",
-		"veh_reg_num": "PN",
-		"code": "204",
-		"region_id": "7"
-	},
-	{
-		"id": "46",
-		"name": "Poltár",
-		"veh_reg_num": "PT",
-		"code": "607",
-		"region_id": "1"
-	},
-	{
-		"id": "47",
-		"name": "Poprad",
-		"veh_reg_num": "PP",
-		"code": "706",
-		"region_id": "5"
-	},
-	{
-		"id": "48",
-		"name": "Považská Bystrica",
-		"veh_reg_num": "PB",
-		"code": "306",
-		"region_id": "6"
-	},
-	{
-		"id": "49",
-		"name": "Prešov",
-		"veh_reg_num": "PO",
-		"code": "707",
-		"region_id": "5"
-	},
-	{
-		"id": "50",
-		"name": "Prievidza",
-		"veh_reg_num": "PD",
-		"code": "307",
-		"region_id": "6"
-	},
-	{
-		"id": "51",
-		"name": "Púchov",
-		"veh_reg_num": "PU",
-		"code": "308",
-		"region_id": "6"
-	},
-	{
-		"id": "52",
-		"name": "Revúca",
-		"veh_reg_num": "RA",
-		"code": "608",
-		"region_id": "1"
-	},
-	{
-		"id": "53",
-		"name": "Rimavská Sobota",
-		"veh_reg_num": "RS",
-		"code": "609",
-		"region_id": "1"
-	},
-	{
-		"id": "54",
-		"name": "Rožňava",
-		"veh_reg_num": "RV",
-		"code": "808",
-		"region_id": "3"
-	},
-	{
-		"id": "55",
-		"name": "Ružomberok",
-		"veh_reg_num": "RK",
-		"code": "508",
-		"region_id": "8"
-	},
-	{
-		"id": "56",
-		"name": "Sabinov",
-		"veh_reg_num": "SB",
-		"code": "708",
-		"region_id": "5"
-	},
-	{
-		"id": "57",
-		"name": "Senec",
-		"veh_reg_num": "SC",
-		"code": "108",
-		"region_id": "2"
-	},
-	{
-		"id": "58",
-		"name": "Senica",
-		"veh_reg_num": "SE",
-		"code": "205",
-		"region_id": "7"
-	},
-	{
-		"id": "59",
-		"name": "Skalica",
-		"veh_reg_num": "SI",
-		"code": "206",
-		"region_id": "7"
-	},
-	{
-		"id": "60",
-		"name": "Snina",
-		"veh_reg_num": "SV",
-		"code": "709",
-		"region_id": "5"
-	},
-	{
-		"id": "61",
-		"name": "Sobrance",
-		"veh_reg_num": "SO",
-		"code": "809",
-		"region_id": "3"
-	},
-	{
-		"id": "62",
-		"name": "Spišská Nová Ves",
-		"veh_reg_num": "SN",
-		"code": "810",
-		"region_id": "3"
-	},
-	{
-		"id": "63",
-		"name": "Stará Ľubovňa",
-		"veh_reg_num": "SL",
-		"code": "710",
-		"region_id": "5"
-	},
-	{
-		"id": "64",
-		"name": "Stropkov",
-		"veh_reg_num": "SP",
-		"code": "711",
-		"region_id": "5"
-	},
-	{
-		"id": "65",
-		"name": "Svidník",
-		"veh_reg_num": "SK",
-		"code": "712",
-		"region_id": "5"
-	},
-	{
-		"id": "66",
-		"name": "Šaľa",
-		"veh_reg_num": "SA",
-		"code": "405",
-		"region_id": "4"
-	},
-	{
-		"id": "67",
-		"name": "Topoľčany",
-		"veh_reg_num": "TO",
-		"code": "406",
-		"region_id": "4"
-	},
-	{
-		"id": "68",
-		"name": "Trebišov",
-		"veh_reg_num": "TV",
-		"code": "811",
-		"region_id": "3"
-	},
-	{
-		"id": "69",
-		"name": "Trenčín",
-		"veh_reg_num": "TN",
-		"code": "309",
-		"region_id": "6"
-	},
-	{
-		"id": "70",
-		"name": "Trnava",
-		"veh_reg_num": "TT",
-		"code": "207",
-		"region_id": "7"
-	},
-	{
-		"id": "71",
-		"name": "Turčianske Teplice",
-		"veh_reg_num": "TR",
-		"code": "509",
-		"region_id": "8"
-	},
-	{
-		"id": "72",
-		"name": "Tvrdošín",
-		"veh_reg_num": "TS",
-		"code": "510",
-		"region_id": "8"
-	},
-	{
-		"id": "73",
-		"name": "Veľký Krtíš",
-		"veh_reg_num": "VK",
-		"code": "610",
-		"region_id": "1"
-	},
-	{
-		"id": "74",
-		"name": "Vranov nad Topľou",
-		"veh_reg_num": "VT",
-		"code": "713",
-		"region_id": "5"
-	},
-	{
-		"id": "75",
-		"name": "Zlaté Moravce",
-		"veh_reg_num": "ZM",
-		"code": "407",
-		"region_id": "4"
-	},
-	{
-		"id": "76",
-		"name": "Zvolen",
-		"veh_reg_num": "ZV",
-		"code": "611",
-		"region_id": "1"
-	},
-	{
-		"id": "77",
-		"name": "Žarnovica",
-		"veh_reg_num": "ZC",
-		"code": "612",
-		"region_id": "1"
-	},
-	{
-		"id": "78",
-		"name": "Žiar nad Hronom",
-		"veh_reg_num": "ZH",
-		"code": "613",
-		"region_id": "1"
-	},
-	{
-		"id": "79",
-		"name": "Žilina",
-		"veh_reg_num": "ZA",
-		"code": "511",
-		"region_id": "8"
-	}
+	[
+		1,
+		"Bánovce nad Bebravou",
+		"BN",
+		301,
+		6
+	],
+	[
+		2,
+		"Banská Bystrica",
+		"BB",
+		601,
+		1
+	],
+	[
+		3,
+		"Banská Štiavnica",
+		"BS",
+		602,
+		1
+	],
+	[
+		4,
+		"Bardejov",
+		"BJ",
+		701,
+		5
+	],
+	[
+		5,
+		"Bratislava I",
+		"BA, BL",
+		101,
+		2
+	],
+	[
+		6,
+		"Bratislava II",
+		"BA, BL",
+		102,
+		2
+	],
+	[
+		7,
+		"Bratislava III",
+		"BA, BL",
+		103,
+		2
+	],
+	[
+		8,
+		"Bratislava IV",
+		"BA, BL",
+		104,
+		2
+	],
+	[
+		9,
+		"Bratislava V",
+		"BA, BL",
+		105,
+		2
+	],
+	[
+		10,
+		"Brezno",
+		"BR",
+		603,
+		1
+	],
+	[
+		11,
+		"Bytča",
+		"BY",
+		501,
+		8
+	],
+	[
+		12,
+		"Čadca",
+		"CA",
+		502,
+		8
+	],
+	[
+		13,
+		"Detva",
+		"DT",
+		604,
+		1
+	],
+	[
+		14,
+		"Dolný Kubín",
+		"DK",
+		503,
+		8
+	],
+	[
+		15,
+		"Dunajská Streda",
+		"DS",
+		201,
+		7
+	],
+	[
+		16,
+		"Galanta",
+		"GA",
+		202,
+		7
+	],
+	[
+		17,
+		"Gelnica",
+		"GL",
+		801,
+		3
+	],
+	[
+		18,
+		"Hlohovec",
+		"HC",
+		203,
+		7
+	],
+	[
+		19,
+		"Humenné",
+		"HE",
+		702,
+		5
+	],
+	[
+		20,
+		"Ilava",
+		"IL",
+		302,
+		6
+	],
+	[
+		21,
+		"Kežmarok",
+		"KK",
+		703,
+		5
+	],
+	[
+		22,
+		"Komárno",
+		"KN",
+		401,
+		4
+	],
+	[
+		23,
+		"Košice I",
+		"KE",
+		802,
+		3
+	],
+	[
+		24,
+		"Košice II",
+		"KE",
+		803,
+		3
+	],
+	[
+		25,
+		"Košice III",
+		"KE",
+		804,
+		3
+	],
+	[
+		26,
+		"Košice IV",
+		"KE",
+		805,
+		3
+	],
+	[
+		27,
+		"Košice-okolie",
+		"KS",
+		806,
+		3
+	],
+	[
+		28,
+		"Krupina",
+		"KA",
+		605,
+		1
+	],
+	[
+		29,
+		"Kysucké Nové Mesto",
+		"KM",
+		504,
+		8
+	],
+	[
+		30,
+		"Levice",
+		"LV",
+		402,
+		4
+	],
+	[
+		31,
+		"Levoča",
+		"LE",
+		704,
+		5
+	],
+	[
+		32,
+		"Liptovský Mikuláš",
+		"LM",
+		505,
+		8
+	],
+	[
+		33,
+		"Lučenec",
+		"LC",
+		606,
+		1
+	],
+	[
+		34,
+		"Malacky",
+		"MA",
+		106,
+		2
+	],
+	[
+		35,
+		"Martin",
+		"MT",
+		506,
+		8
+	],
+	[
+		36,
+		"Medzilaborce",
+		"ML",
+		705,
+		5
+	],
+	[
+		37,
+		"Michalovce",
+		"MI",
+		807,
+		3
+	],
+	[
+		38,
+		"Myjava",
+		"MY",
+		303,
+		6
+	],
+	[
+		39,
+		"Námestovo",
+		"NO",
+		507,
+		8
+	],
+	[
+		40,
+		"Nitra",
+		"NR",
+		403,
+		4
+	],
+	[
+		41,
+		"Nové Mesto nad Váhom",
+		"NM",
+		304,
+		6
+	],
+	[
+		42,
+		"Nové Zámky",
+		"NZ",
+		404,
+		4
+	],
+	[
+		43,
+		"Partizánske",
+		"PE",
+		305,
+		6
+	],
+	[
+		44,
+		"Pezinok",
+		"PK",
+		107,
+		2
+	],
+	[
+		45,
+		"Piešťany",
+		"PN",
+		204,
+		7
+	],
+	[
+		46,
+		"Poltár",
+		"PT",
+		607,
+		1
+	],
+	[
+		47,
+		"Poprad",
+		"PP",
+		706,
+		5
+	],
+	[
+		48,
+		"Považská Bystrica",
+		"PB",
+		306,
+		6
+	],
+	[
+		49,
+		"Prešov",
+		"PO",
+		707,
+		5
+	],
+	[
+		50,
+		"Prievidza",
+		"PD",
+		307,
+		6
+	],
+	[
+		51,
+		"Púchov",
+		"PU",
+		308,
+		6
+	],
+	[
+		52,
+		"Revúca",
+		"RA",
+		608,
+		1
+	],
+	[
+		53,
+		"Rimavská Sobota",
+		"RS",
+		609,
+		1
+	],
+	[
+		54,
+		"Rožňava",
+		"RV",
+		808,
+		3
+	],
+	[
+		55,
+		"Ružomberok",
+		"RK",
+		508,
+		8
+	],
+	[
+		56,
+		"Sabinov",
+		"SB",
+		708,
+		5
+	],
+	[
+		57,
+		"Senec",
+		"SC",
+		108,
+		2
+	],
+	[
+		58,
+		"Senica",
+		"SE",
+		205,
+		7
+	],
+	[
+		59,
+		"Skalica",
+		"SI",
+		206,
+		7
+	],
+	[
+		60,
+		"Snina",
+		"SV",
+		709,
+		5
+	],
+	[
+		61,
+		"Sobrance",
+		"SO",
+		809,
+		3
+	],
+	[
+		62,
+		"Spišská Nová Ves",
+		"SN",
+		810,
+		3
+	],
+	[
+		63,
+		"Stará Ľubovňa",
+		"SL",
+		710,
+		5
+	],
+	[
+		64,
+		"Stropkov",
+		"SP",
+		711,
+		5
+	],
+	[
+		65,
+		"Svidník",
+		"SK",
+		712,
+		5
+	],
+	[
+		66,
+		"Šaľa",
+		"SA",
+		405,
+		4
+	],
+	[
+		67,
+		"Topoľčany",
+		"TO",
+		406,
+		4
+	],
+	[
+		68,
+		"Trebišov",
+		"TV",
+		811,
+		3
+	],
+	[
+		69,
+		"Trenčín",
+		"TN",
+		309,
+		6
+	],
+	[
+		70,
+		"Trnava",
+		"TT",
+		207,
+		7
+	],
+	[
+		71,
+		"Turčianske Teplice",
+		"TR",
+		509,
+		8
+	],
+	[
+		72,
+		"Tvrdošín",
+		"TS",
+		510,
+		8
+	],
+	[
+		73,
+		"Veľký Krtíš",
+		"VK",
+		610,
+		1
+	],
+	[
+		74,
+		"Vranov nad Topľou",
+		"VT",
+		713,
+		5
+	],
+	[
+		75,
+		"Zlaté Moravce",
+		"ZM",
+		407,
+		4
+	],
+	[
+		76,
+		"Zvolen",
+		"ZV",
+		611,
+		1
+	],
+	[
+		77,
+		"Žarnovica",
+		"ZC",
+		612,
+		1
+	],
+	[
+		78,
+		"Žiar nad Hronom",
+		"ZH",
+		613,
+		1
+	],
+	[
+		79,
+		"Žilina",
+		"ZA",
+		511,
+		8
+	]
 ]
