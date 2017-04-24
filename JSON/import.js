@@ -25,7 +25,7 @@ files.forEach((file) => {
         ws = fs.createWriteStream(file.out, { encoding: "utf8" }),
         data = [];
 
-    console.log('FILE:', file.path);
+    console.log('Parsing file:', file.path);
 
     csv
         .fromStream(rs, {
@@ -34,19 +34,18 @@ files.forEach((file) => {
             headers: file.headers
         })
         .on("data", function(_data) {
-            console.log(_data);
-            _data = Object.keys(_data).map((key) => {
+            // console.log(_data);
+            Object.keys(_data).map((key) => {
                 if (_data[key].match(/^[0-9]*$/)) {
-                    return Number(_data[key]);
+                    _data[key] = Number(_data[key]);
                 }
-                return _data[key]
             });
             data.push(_data);
         })
         .on("end", function() {
             ws.write(JSON.stringify(data, null, "\t"));
             ws.close();
+            console.log("Export done:", data.length, file.out);
             data = undefined; // garbege
-            console.log("done");
         });
 });
