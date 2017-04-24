@@ -1,0 +1,33 @@
+{
+    "name": "obce-okresy-kraje-slovenska",
+    "version": "1.0.0",
+    "description": "Obce, okresy a kraje Slovenska",
+    "main": "JSON/import.js",
+    "scripts": {
+        "start": "node JSON/import.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gunsoft/obce-okresy-kraje-slovenska.git"
+    },
+    "keywords": [
+        "obce",
+        "kraje",
+        "okresy",
+        "slovensko",
+        "slovakia",
+        "vilages",
+        "districts",
+        "regions"
+    ],
+    "author": "gunsoft,MartinBucko",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/gunsoft/obce-okresy-kraje-slovenska/issues"
+    },
+    "homepage": "https://github.com/gunsoft/obce-okresy-kraje-slovenska#readme",
+    "devDependencies": {
+        "fast-csv": "^2.4.0"
+    }
+}
